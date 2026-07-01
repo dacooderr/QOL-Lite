@@ -1,0 +1,1 @@
+This is the version without Always Show Active and Passive Item Cooldowns.

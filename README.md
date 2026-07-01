@@ -1,2 +1,2 @@
 # QOL Lite
-QOL Lite acts as a QOL Lock replacement to avoid 1% low issues. It includes the basic mods included in QOL Lock without the big performance hit..
+QOL Lite acts as a QOL Lock replacement to avoid 1% low issues. It includes the basic mods included in QOL Lock without the big performance hit.
