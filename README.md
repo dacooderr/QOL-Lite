@@ -5,11 +5,11 @@ YOU CANNOT HAVE ANY OF THE MODS INSTALLED ALREADY INCLUDED IN QOL Lite OR USE QO
 
 QOL Lite MUST ALSO BE #1 PRIORITY IN YOUR MOD LOAD ORDER AT ALL TIMES!
 
-## Mods Included in QOL Lite:
+## Mods Included in QOL Lite: (Subject to Change)
 
     Top Bar Plus
 
-    Better Map
+    Golden Sinners
 
     Advanced Testing Tools In Hideout
 
