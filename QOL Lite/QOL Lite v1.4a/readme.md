@@ -2,28 +2,26 @@
 
 	Features:
 		
-		Top Bar Plus
+		- Top Bar Plus
 	
-		Larger & Transparent Minimap
+		- Larger & Transparent Minimap
 		
-		Always Show Active and Passive Cooldowns
+		- Always Show Active and Passive Cooldowns
 
-		Advanced Testing Tools In Hideout
+		- Advanced Testing Tools In Hideout
 
-		Menu (for queuing while in Custom Servers or Hideout)
+		- Menu (for queuing while in Custom Servers or Hideout)
 
-		Statlocker
+		- Statlocker
 
-		Stats in Shop
+		- Stats in Shop
 
-		Clean Damage Indicator
+		- Clean Damage Indicator
 
-		Vindicta Scope Downscale
+		- Vindicta Scope Downscale
 
-		Optimized McGinnis Wall
+		- Optimized McGinnis Wall
 
-		Optimized Soul Containers
+		- Sinner's Light Fix
 
-		Sinner's Light Fix
-
-		4;3 Option in Video Settings
+		- 4;3 Option in Video Settings

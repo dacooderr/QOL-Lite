@@ -8,6 +8,8 @@
 ## Mods Included in QOL Lite: (Subject to Change)
 
     - Top Bar Plus
+	
+	- Always Show Active and Passive Cooldowns (Optional)
 
 	- Larger & Transparent Map
 
