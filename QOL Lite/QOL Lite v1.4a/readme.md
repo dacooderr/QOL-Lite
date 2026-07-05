@@ -1,0 +1,1 @@
+## This is the version of QOL Lite with Always Show Active and Passive Cooldowns.

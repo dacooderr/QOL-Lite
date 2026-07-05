@@ -1,0 +1,1 @@
+## This is the default version of QOL Lite.
