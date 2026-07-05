@@ -7,26 +7,24 @@
 
 ## Mods Included in QOL Lite: (Subject to Change)
 
-    **Top Bar Plus**
-	
-	**Larger & Transparent Map**
+    - Top Bar Plus
 
-    **Advanced Testing Tools In Hideout**
+	- Larger & Transparent Map
 
-    **Menu (for queuing while in Custom Servers or Hideout)**
+    - Advanced Testing Tools In Hideout
 
-    **Statlocker**
+    - Menu (for queuing while in Custom Servers or Hideout)
 
-    **tats in Shop**
+    - Statlocker
 
-    **Clean Damage Indicator**
+    - Stats in Shop
 
-    **Vindicta Scope Downscale**
+    - Clean Damage Indicator
 
-    **Optimized McGinnis Wall**
+    - Vindicta Scope Downscale
 
-    **Sinner's Light Fix**
+    - Optimized McGinnis Wall
 
-    **4;3 Fix**
+    - Sinner's Light Fix
 
-    **4;3 Option in Video Settings**
+    - 4;3 Option in Video Settings
