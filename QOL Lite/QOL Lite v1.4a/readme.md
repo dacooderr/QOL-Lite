@@ -6,7 +6,7 @@
 	
 		- Larger & Transparent Minimap
 		
-		- Always Show Active and Passive Cooldowns
+		- Always Show Passive Cooldowns
 
 		- Advanced Testing Tools In Hideout
 
